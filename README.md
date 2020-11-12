@@ -4,7 +4,7 @@
 
 * I'm currently exploring new languages in the programming world
 * I'm currently learning algorithms and data structures
-* Goals: Make beautfiul dynamic websites and application
+* Goals: Make beautfiul dynamic websites and applications
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple 
 
 ### Connect with me 📱
