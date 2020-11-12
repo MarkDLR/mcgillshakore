@@ -3,8 +3,6 @@
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Inspiring Vegan.
 
 * I'm currently exploring new languages in the programming world
-* I'm currently reading:
-  ![](https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg)
 * Goals: Make beautfiul dynamic websites and applications
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple 
 
@@ -17,6 +15,9 @@
 <br/>
 ### 🎧 🎶Vibe With Me🎶 🎧
 [![Spotify](https://mcgillshakore.vercel.app/api/spotify)](https://open.spotify.com/user/yb790emvnyqkdkq988j7u398v)
+
+### Currently Reading:
+![](https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg)
 
 ### Technology Stack:
 [<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][linkedIn]
