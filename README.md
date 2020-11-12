@@ -6,14 +6,14 @@
 * Goals: Make beautfiul dynamic websites and applications
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple 
 
-### Connect with me 📱
+### 📱Connect with me 
 [<img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedIn]
 [<img align="left" atl="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>][blog]
 [<img align="left" atl="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" atl="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 <br/>
 <br/>
-### Currently Reading:
+### 📚Currently Reading:
 <img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="200" />
 
 ### 🎧 🎶Vibe With Me🎶 🎧
