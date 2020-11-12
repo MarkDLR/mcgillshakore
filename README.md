@@ -2,9 +2,9 @@
 
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Inspiring Vegan.
 
-* I'm currently exploring new languages in the programming world
-* Goals: Make beautfiul dynamic websites and applications
-* Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple 
+* I'm currently exploring new languages in the programming world.
+* Goals: Make beautfiul dynamic websites and applications.
+* Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple. 
 
 ### 🎧 🎶Vibe With Me🎶 🎧
 [![Spotify](https://mcgillshakore.vercel.app/api/spotify)](https://open.spotify.com/user/yb790emvnyqkdkq988j7u398v)
