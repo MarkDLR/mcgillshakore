@@ -9,9 +9,9 @@
 
 
 ### Connect with me
-<img align="left" atl="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-
-
+[<img align="left" atl="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<img src=""/>
+<img src=""/>
 
 <!--
 **mcgillshakore/mcgillshakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedIn]:http://www.linkedin.com/in/shakore-mcgill
+[twitter]:http://www.twitter.com/mcgillshakore
