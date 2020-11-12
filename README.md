@@ -7,7 +7,10 @@
 * Goals: Make beautfiul dynamic websites and application
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple 
 
-[<img align="left" atl="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][http://www.twitter.com/mcgillshakore]
+
+### Connect with me
+<img align="left" atl="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+
 
 
 <!--
