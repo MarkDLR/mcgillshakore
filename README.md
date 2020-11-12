@@ -22,6 +22,7 @@
 [<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][linkedIn]
 [<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>][linkedIn]
 [<img align="left" alt="react_router" src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white"/>][linkedIn]
+<br/>
 ### 📚Currently Reading:
 <img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="200" />
 
