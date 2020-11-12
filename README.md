@@ -17,7 +17,7 @@
 [![Spotify](https://mcgillshakore.vercel.app/api/spotify)](https://open.spotify.com/user/yb790emvnyqkdkq988j7u398v)
 
 ### Currently Reading:
-![](https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg =100x20)
+![](https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg=100x20)
 
 ### Technology Stack:
 [<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][linkedIn]
