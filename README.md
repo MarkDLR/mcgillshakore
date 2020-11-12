@@ -23,7 +23,7 @@
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]
 [<img align="left" alt="ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>]
 [<img align="left" alt="rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>]
-[<img align="left" alt="react" src="	https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]
+[<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]
 <!--
 **mcgillshakore/mcgillshakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
