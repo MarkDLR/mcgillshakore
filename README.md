@@ -1,6 +1,6 @@
 ### Hi there, I'm ShaKore McGill 👋
 
-## I'm a Front End Developer, Digital Artist, Movie Lover, and an Inspiring Vegan.
+## I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.
 
 * I'm currently exploring new languages in the programming world.
 * Goals: Make beautfiul dynamic websites and applications.
