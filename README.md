@@ -1,6 +1,6 @@
 ### Hi there, I'm ShaKore McGill 👋
 
-#### I'm a Front End Developer, Digital Artist, Movie Lover, and an Ispiring Vegan.
+## I'm a Front End Developer, Digital Artist, Movie Lover, and an Ispiring Vegan.
 
 <!--
 **mcgillshakore/mcgillshakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
