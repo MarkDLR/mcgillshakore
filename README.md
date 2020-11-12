@@ -1,6 +1,6 @@
 ### Hi there, I'm ShaKore McGill 👋
 
-## I'm a Front End Developer, Digital Artist, Movie Lover, and an Ispiring Vegan.
+## I'm a Front End Developer, Digital Artist, Movie Lover, and an Inspiring Vegan.
 
 * I'm currently exploring new languages in the programming world
 * I'm currently learning algorithms and data structures
@@ -24,6 +24,8 @@
 [<img align="left" alt="ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>][linkedIn]
 [<img align="left" alt="rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>][linkedIn]
 [<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][linkedIn]
+[<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>][linkedIn]
+[<img align="left" alt="react_router" src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white"/>][linkedIn]
 <!--
 **mcgillshakore/mcgillshakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
