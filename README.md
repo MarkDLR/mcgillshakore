@@ -13,7 +13,12 @@
 [<img align="left" atl="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>][blog]
 [<img align="left" atl="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" atl="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-
+<br/>
+<br/>
+### Vibe With Me
+[![Spotify](https://mcgillshakore.vercel.app/api/spotify)](https://open.spotify/com/user/yb790emvnyqkdkq988j7u398v)
+<br/>
+<br/>
 ### Technology Stack:
 
 
