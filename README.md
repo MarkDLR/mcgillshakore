@@ -3,7 +3,8 @@
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Inspiring Vegan.
 
 * I'm currently exploring new languages in the programming world
-* I'm currently learning algorithms and data structures
+* I'm currently reading:
+  ![](https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg)
 * Goals: Make beautfiul dynamic websites and applications
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple 
 
