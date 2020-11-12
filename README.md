@@ -27,10 +27,15 @@
 [<img align="left" alt="react_router" src="https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white"/>][linkedIn]
 <br/>
 ### 📚Books I'm Reading:
-<img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="50" align="left" />
-<img src="https://m.media-amazon.com/images/I/51sLS7otdkL.jpg" alt="book" width="50" align="left" />
-<img src="https://m.media-amazon.com/images/I/51Tlm0GZTXL._SY346_.jpg" alt="book" width="50" align="left"/>
-<img src="https://m.media-amazon.com/images/I/416Hql52NCL.jpg" alt="book" width="50" align="left"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="75" align="left" />
+<img src="https://m.media-amazon.com/images/I/51sLS7otdkL.jpg" alt="book" width="75" align="left" />
+<img src="https://m.media-amazon.com/images/I/51Tlm0GZTXL._SY346_.jpg" alt="book" width="75" align="left"/>
+<img src="https://m.media-amazon.com/images/I/416Hql52NCL.jpg" alt="book" width="75" align="left"/>
+<img src="https://m.media-amazon.com/images/I/51C32GrJkiL._SY346_.jpg" alt="book" width="75" align="left"/>
+<img src="https://m.media-amazon.com/images/I/51Q4AwpPDkL.jpg" alt="book" width="75" align="left"/>
+<img src="https://m.media-amazon.com/images/I/51yKczFDuQL._SY346_.jpg" alt="book" width="75" align="left"/>
+<img src="https://m.media-amazon.com/images/I/51VuUo3rdML.jpg" alt="book" width="75" align="left"/>
+<img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
 
 
 
