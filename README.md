@@ -1,4 +1,5 @@
 ### Hi there, I'm ShaKore McGill 👋
+<img align="left" width="900" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.
 
@@ -38,13 +39,6 @@
     <img src="https://m.media-amazon.com/images/I/51VuUo3rdML.jpg" alt="book" width="75" align="left"/>
     <img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
 </section>
-<br/>
-<br/>
-<section></section>
-<br/>
-<br/>
-<img align="left" width="900" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
-
 
 <!--
 **mcgillshakore/mcgillshakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
