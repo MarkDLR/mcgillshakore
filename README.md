@@ -20,9 +20,8 @@
   <h3>Github Stats: </h3>
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 </section>
-<br/>
-<br/>
-### Technology Stack:
+<section>
+  <h3>Technology Stack: </h3>
 [<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][linkedIn]
 [<img align="left" alt="css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][linkedIn]
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][linkedIn]
@@ -30,10 +29,9 @@
 [<img align="left" alt="rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>][linkedIn]
 [<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][linkedIn]
 [<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>][linkedIn]
-<br/>
-<br/>
+</section>
 <section>
-  <h4>📚Books I'm Reading</h4>
+  <h3>📚Books I'm Reading</h3>
     <img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="75" align="left" />
     <img src="https://m.media-amazon.com/images/I/51sLS7otdkL.jpg" alt="book" width="75" align="left" />
     <img src="https://m.media-amazon.com/images/I/51Tlm0GZTXL._SY346_.jpg" alt="book" width="75" align="left"/>
