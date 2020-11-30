@@ -43,10 +43,7 @@
 <section></section>
 <br/>
 <br/>
-<details>
-  <summary>GitHub Stats</summary>
-<img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
-</details>
+<img align="left" width="200" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 
 
 <!--
