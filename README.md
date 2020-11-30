@@ -38,7 +38,7 @@
     <img src="https://m.media-amazon.com/images/I/51VuUo3rdML.jpg" alt="book" width="75" align="left"/>
     <img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
 </section>
-<br/>
+<br/><br/><br/>
 <hr>
 ### Github Stats: 
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
