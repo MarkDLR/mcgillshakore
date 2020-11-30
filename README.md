@@ -2,7 +2,9 @@
 <img align="left" width="750" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 <br>
 <br>
-
+<hr>
+<br>
+<br>
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.
 
 * I'm currently exploring new languages in the programming world.
