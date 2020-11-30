@@ -1,14 +1,11 @@
 ### Hi there, I'm ShaKore McGill 👋
 
-
+<img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.
 
 * I'm currently exploring new languages in the programming world.
 * Goals: Make beautfiul dynamic websites and applications.
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple. 
-<br/>
-<br/>
-<img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 
 ### 🎧 🎶Vibe With Me🎶 🎧
 [![Spotify](https://mcgillshakore.vercel.app/api/spotify)](https://open.spotify.com/user/yb790emvnyqkdkq988j7u398v)
