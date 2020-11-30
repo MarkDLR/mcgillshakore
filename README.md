@@ -35,11 +35,13 @@
 <img src="https://m.media-amazon.com/images/I/51yKczFDuQL._SY346_.jpg" alt="book" width="75" align="left"/>
 <img src="https://m.media-amazon.com/images/I/51VuUo3rdML.jpg" alt="book" width="75" align="left"/>
 <img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
-<br>
+<br/>
+<br/>
 <details>
   <summary>:zap: Github Stats</summary>
   
   <img align="left" atl="mcgillshakore's Github Stats" src="github-readme-stats.mcgillshakore.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
+  
 </details>
 
 
