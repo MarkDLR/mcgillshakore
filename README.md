@@ -40,6 +40,7 @@
 </section>
 <br/>
 <br/>
+<hr>
 <br/>
 <br/>
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
