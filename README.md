@@ -1,5 +1,5 @@
 ### Hi there, I'm ShaKore McGill 👋
-<img align="left" width="500" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
+<img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.
 
