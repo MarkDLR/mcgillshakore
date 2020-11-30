@@ -16,10 +16,9 @@
 [<img align="left" atl="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 <br/>
 <br/>
-<details>
-  <h2>Github Stats</h2>
+<details><summary>Github Stats</>summary>
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
- </details>
+</details>
 <br/>
 <br/>
 ### Technology Stack:
@@ -32,7 +31,7 @@
 [<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>][linkedIn]
 <br/>
 <br/>
-<details><summary><h2>📚Books I'm Reading</h2></summary>
+<details><summary><h3>📚Books I'm Reading</h3></summary>
 <img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="75" align="left" />
 <img src="https://m.media-amazon.com/images/I/51sLS7otdkL.jpg" alt="book" width="75" align="left" />
 <img src="https://m.media-amazon.com/images/I/51Tlm0GZTXL._SY346_.jpg" alt="book" width="75" align="left"/>
