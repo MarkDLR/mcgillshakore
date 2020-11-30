@@ -8,6 +8,10 @@
 
 ### 🎧 🎶Vibe With Me🎶 🎧
 [![Spotify](https://mcgillshakore.vercel.app/api/spotify)](https://open.spotify.com/user/yb790emvnyqkdkq988j7u398v)
+<section>
+  <h3>Github Stats: </h3>
+<img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
+</section>
 
 ### 📱Let's Connect
 [<img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedIn]
