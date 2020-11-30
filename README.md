@@ -1,8 +1,8 @@
 ### Hi there, I'm ShaKore McGill 👋
-
 <img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
+<br/>
+<br/>
 ## I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.
-
 * I'm currently exploring new languages in the programming world.
 * Goals: Make beautfiul dynamic websites and applications.
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple. 
