@@ -1,7 +1,7 @@
 ### Hi there, I'm ShaKore McGill 👋
+<!--
 <img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
-<br/>
-<br/>
+-->
 <h3>I'm a Front End Developer, Digital Artist, Movie Lover, and an Aspiring Vegan.</h3>
 * I'm currently exploring new languages in the programming world.
 * Goals: Make beautfiul dynamic websites and applications.
