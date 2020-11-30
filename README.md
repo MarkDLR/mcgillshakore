@@ -6,6 +6,8 @@
 * I'm currently exploring new languages in the programming world.
 * Goals: Make beautfiul dynamic websites and applications.
 * Fun Facts: I love to make digital art using my iPad and create tasty dishes. Also my favorite color is Purple. 
+<br/>
+<br/>
 <img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 
 ### 🎧 🎶Vibe With Me🎶 🎧
