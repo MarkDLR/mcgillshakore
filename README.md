@@ -43,7 +43,11 @@
 <section></section>
 <br/>
 <br/>
+<details>
+  <summary>GitHub Stats</summary>
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
+</details>
+
 
 <!--
 **mcgillshakore/mcgillshakore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
