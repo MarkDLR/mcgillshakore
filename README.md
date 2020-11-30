@@ -16,9 +16,10 @@
 [<img align="left" atl="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 <br/>
 <br/>
-<details><summary><h4>Github Stats</h4></summary>
+<section>
+  <h3>Github Stats</h3>
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
-</details>
+</section>
 <br/>
 <br/>
 ### Technology Stack:
