@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <section>
-  <h3>Github Stats</h3>
+  <h3>Github Stats: </h3>
 <img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 </section>
 <br/>
@@ -32,16 +32,17 @@
 [<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>][linkedIn]
 <br/>
 <br/>
-<details><summary><h4>📚Books I'm Reading</h4></summary>
-<img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="75" align="left" />
-<img src="https://m.media-amazon.com/images/I/51sLS7otdkL.jpg" alt="book" width="75" align="left" />
-<img src="https://m.media-amazon.com/images/I/51Tlm0GZTXL._SY346_.jpg" alt="book" width="75" align="left"/>
-<img src="https://m.media-amazon.com/images/I/51C32GrJkiL._SY346_.jpg" alt="book" width="75" align="left"/>
-<img src="https://m.media-amazon.com/images/I/51Q4AwpPDkL.jpg" alt="book" width="75" align="left"/>
-<img src="https://m.media-amazon.com/images/I/51yKczFDuQL._SY346_.jpg" alt="book" width="75" align="left"/>
-<img src="https://m.media-amazon.com/images/I/51VuUo3rdML.jpg" alt="book" width="75" align="left"/>
-<img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
-</details>
+<section>
+  <h4>📚Books I'm Reading</h4>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/410hiaPGyCL._SX348_BO1,204,203,200_.jpg" alt="book" width="75" align="left" />
+    <img src="https://m.media-amazon.com/images/I/51sLS7otdkL.jpg" alt="book" width="75" align="left" />
+    <img src="https://m.media-amazon.com/images/I/51Tlm0GZTXL._SY346_.jpg" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/51C32GrJkiL._SY346_.jpg" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/51Q4AwpPDkL.jpg" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/51yKczFDuQL._SY346_.jpg" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/51VuUo3rdML.jpg" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
+</section>
 <br/>
 <br/>
 
