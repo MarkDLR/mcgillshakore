@@ -16,6 +16,10 @@
 [<img align="left" atl="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
 <br/>
 <br/>
+### Github Stats
+<img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
+<br/>
+<br/>
 ### Technology Stack:
 [<img align="left" alt="html" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][linkedIn]
 [<img align="left" alt="css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][linkedIn]
@@ -37,10 +41,6 @@
 <img src="https://m.media-amazon.com/images/I/51q4ZTnypdL.jpg" alt="book" width="75" align="left"/>
 <br/>
 <br/>
-### Github Stats
-
-<img align="left" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
-
 
 
 <!--
