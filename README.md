@@ -1,4 +1,4 @@
-### Hi there, I'm ShaKore McGill 👋
+### Hi there, I'm ShaKore McGill  👋🏾
 <!--
 <img align="left" width="450" atl="mcgillshakore's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=mcgillshakore&show_icons=true&hide_border=true" />
 -->
